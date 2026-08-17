@@ -6,7 +6,6 @@ import { useHover } from '../hooks/useHover'
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver'
 
 // ─── Data ─────────────────────────────────────────────────────────────────────
-
 const EXPERTISE: readonly ExpertiseItem[] = [
   {
     id: 1,
