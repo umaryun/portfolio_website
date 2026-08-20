@@ -4,11 +4,6 @@ import { colors, type, layout } from '../tokens'
 import { useMediaQuery } from '../hooks/useMediaQuery'
 import { useIntersectionObserver } from '../hooks/useIntersectionObserver'
 
-// ─── Constants ────────────────────────────────────────────────────────────────
-
-const PORTRAIT_URL =
-  'https://lh3.googleusercontent.com/aida-public/AB6AXuDDQiwN-PMxTtmgPFv6J3qzF_X89PA4blJb-PYWJqXWQScD5CsdbIk1xSc0wFlRV5HAKSd-1FxHWZtzz2NU8CAYpDlVbKnI5oFKsz_CdVwamnM7jdkqe-TrDXKvvvY26iAxqtFZ7oLS3TnVefCMN-aXBccyV5CylPG1NZOPTQhRedhAzpVfEEoQCzcwSHiwVB2OEPaDMrgBE9n0ryy1_ojrv3o0HOxU_oWSkNCzPhARpg46kYnY2e2t_nQdcVnY9m0gbykTTSnp-AFoWA'
-
 // ─── Sub-components ───────────────────────────────────────────────────────────
 
 interface ButtonProps {
